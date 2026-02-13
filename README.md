@@ -1,3 +1,4 @@
+chore/deployment-config
 # Blogify API
 
 🌐 Live API: https://sblogify-api.onrender.com
@@ -32,7 +33,6 @@ It enables users to register, authenticate, and manage blog posts using JWT-base
 ✅ Environment-Based Configuration  
 ✅ Production-Ready Deployment  
 
----
 
 ## 🛠️ 3. Tech Stack
 
@@ -47,7 +47,6 @@ It enables users to register, authenticate, and manage blog posts using JWT-base
 | MongoDB Atlas  | Cloud Database              |
 | Render         | Deployment Platform         |
 
----
 
 ## 📋 4. Prerequisites
 
@@ -58,9 +57,3 @@ Make sure you have the following installed:
 - ✅ MongoDB Atlas Account
 - ✅ Git
 
-Check versions:
-
-```bash
-node -v
-npm -v
-git --version
